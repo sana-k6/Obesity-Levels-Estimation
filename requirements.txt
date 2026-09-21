@@ -8,3 +8,4 @@ Seaborn
 imbalanced-learn
 ipykernel
 ucimlrepo
+xgboost
